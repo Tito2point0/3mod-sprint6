@@ -1,7 +1,7 @@
 
 # NASA APOD Part II - Advanced Styling Techniques
 
-In this project, you will refactor the styling you completed in the APOD app. You will style it using [Styled Components](https://github.com/BloomInstituteOfTechnology/nasa-photo-of-the-day.git), although you are welcome to _also_ use one or two [Reactstrap](https://reactstrap.github.io/) components if you wish.
+In this project, you will refactor the styling you completed in the APOD app. You will style it using [Styled Components](https://github.com/BloomInstituteOfTechnology/nasa-photo-of-the-day.git), although you are welcome to _also_ use one or two [Reactstrap](https://reactstrap.grbithub.io/) components if you wish.
 
 ## Introduction
 
